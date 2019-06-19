@@ -1,2 +1,4 @@
 # AutoChromeLogin
-selenium logs me into my favorite sites.
+
+installing packages, run
+    pip3 install -r requirements.txt
